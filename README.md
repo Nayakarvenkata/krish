@@ -1,2 +1,2 @@
 # krish
-print("hello world"0
+print("hello world")
